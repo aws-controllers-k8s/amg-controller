@@ -1,0 +1,8 @@
+ignore:
+  resource_names:
+    - Workspace
+    - WorkspaceApiKey
+    - WorkspaceServiceAccount
+    - WorkspaceServiceAccountToken
+sdk_names:
+  model_name: grafana
