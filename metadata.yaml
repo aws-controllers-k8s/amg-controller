@@ -1,0 +1,8 @@
+service:
+  full_name: Amazon Managed Grafana
+  short_name: AMG
+  link: https://aws.amazon.com/grafana/
+  documentation: https://docs.aws.amazon.com/prescriptive-guidance/latest/implementing-logging-monitoring-cloudwatch/amg-dashboarding-visualization.html
+api_versions:
+  - api_version: v1alpha1
+    status: available
